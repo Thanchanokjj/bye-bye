@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mdt211_2565_assignment4/1.0.0": {
+        "runtime": {
+          "mdt211_2565_assignment4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mdt211_2565_assignment4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

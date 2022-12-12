@@ -1,0 +1,15 @@
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\mdt211_2565_assignment4.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\mdt211_2565_assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\mdt211_2565_assignment4.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\mdt211_2565_assignment4.AssemblyInfo.cs
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\mdt211_2565_assignment4.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\bin\Debug\net6.0\mdt211_2565_assignment4.exe
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\bin\Debug\net6.0\mdt211_2565_assignment4.deps.json
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\bin\Debug\net6.0\mdt211_2565_assignment4.runtimeconfig.json
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\bin\Debug\net6.0\mdt211_2565_assignment4.dll
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\bin\Debug\net6.0\mdt211_2565_assignment4.pdb
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\mdt211_2565_assignment4.dll
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\refint\mdt211_2565_assignment4.dll
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\mdt211_2565_assignment4.pdb
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\mdt211_2565_assignment4.genruntimeconfig.cache
+C:\Users\STUDENT\Desktop\ส่งเถอะ\mdt211_2565_assignment4-main (2)\mdt211_2565_assignment4-main\obj\Debug\net6.0\ref\mdt211_2565_assignment4.dll
